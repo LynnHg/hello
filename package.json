@@ -1,0 +1,17 @@
+{
+  "name": "@lynnhg/hello",
+  "version": "2.0.0",
+  "description": "Say hello to you",
+  "license": "MIT",
+  "repository": "lynnhg/hello",
+  "main": "index.js",
+  "keywords": [
+    "hello",
+    "npm",
+    "package",
+    "lynnhg"
+  ],
+  "dependencies": {
+    "@lynnhg/hello": "^2.0.0"
+  }
+}
