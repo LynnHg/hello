@@ -8,5 +8,8 @@ $ npm install @lynnhg/hello
 
 # Usage
 ```js
+const hello = require('@lynnhg/hello');
+
+console.log(hello());
 
 ```
