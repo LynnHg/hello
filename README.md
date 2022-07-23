@@ -1,4 +1,5 @@
 # hello
+My first npm package publish.
 Say hello to you
 
 # Install
